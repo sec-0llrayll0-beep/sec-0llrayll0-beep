@@ -1,9 +1,10 @@
 <h1 align="center">Oi! Prazer, me chamo Raul 👋</h1>
 
 <p align="center">
-  Esta é a minha <b>conta secundária</b> — <code>0llrayll0-beep</code>.<br>
-  Meu perfil <b>principal</b> é <a href="https://github.com/0llrayll0"><b>@0llrayll0</b></a>,
-  onde estão os meus projetos e o resto do meu trabalho.
+  Essa é a minha <b>conta secundária</b> — <code>0llrayll0-beep</code>.<br>
+  Aqui eu guardo umas coisas; o que está <b>mais atual</b> e o que tem de mais
+  <b>interessante</b> está na minha conta principal →
+  <a href="https://github.com/0llrayll0"><b>@0llrayll0</b></a>.
 </p>
 
 <p align="center">
@@ -45,8 +46,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="Linux" />
 </div>
-
-*Antes tinha 17 ícones aqui — deixei só os que uso de verdade.*
 
 ---
 
